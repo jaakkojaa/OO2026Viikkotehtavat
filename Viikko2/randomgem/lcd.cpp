@@ -1,3 +1,17 @@
 #include "lcd.h"
 
-LCD::LCD() {}
+void LCD::begin()
+{
+
+}
+
+void LCD::print(string)
+{
+
+}
+
+string LCD::floatToString(float)
+{
+
+}
+
